@@ -1,7 +1,7 @@
 import React from "react";
 //import { Container, Row, Col } from "react-bootstrap";
 import { AiFillDashboard } from "react-icons/ai";
-import data from "../honda_wmi.json";
+//import data from "../honda_wmi.json";
 
 import CountryList from "./CountryList";
 
